@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <h2> How to reach me </h1>
   <div> 
     <ul>
-      <li><a href="https://www.linkedin.com/in/cl%C3%A1udio-tomas-940351205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </li>
+      <li><a href="https://www.linkedin.com/in/claudio-tomas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </li>
      <li><a href = "mailto:ccaducarlos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></li>
   <li><a href="https://www.instagram.com/claudi_tm_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></li>
     </ul>
